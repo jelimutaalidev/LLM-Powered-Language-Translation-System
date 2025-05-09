@@ -38,22 +38,27 @@ An intuitive and smart translation tool powered by **Gemini 1.5 Flash**, designe
 > **📘 Explanation:** This means "I like him/her", depending on gender. In Arabic, gender-specific verbs are used.
 
 ---
-🧠 Tech Stack
-Tool	Purpose
-🧠 Gemini 1.5 Flash	LLM for translation and reasoning
-🐍 Python	Backend logic
-🎛️ Gradio	Web interface frontend
-🔤 Langdetect	Automatic source language detection
+## 🧠 Tech Stack
 
-🔮 Roadmap
- Add speech input & audio output
+| Tool                | Purpose                                   |
+|---------------------|-------------------------------------------|
+| 🧠 Gemini 1.5 Flash  | LLM for translation and reasoning         |
+| 🐍 Python            | Backend logic                             |
+| 🎛️ Gradio            | Web interface frontend                    |
+| 🔤 Langdetect        | Automatic source language detection       |
 
- Add sentence alignment for learning use-cases
+---
 
- Connect to HuggingFace-hosted LLMs
+## 🔮 Roadmap
 
- Integrate FAISS vector search for memory-based translation
+- [ ] Add speech input & audio output  
+- [ ] Add sentence alignment for learning use-cases  
+- [ ] Connect to HuggingFace-hosted LLMs  
+- [ ] Integrate FAISS vector search for memory-based translation  
 
-🤝 Contributing
-Contributions, suggestions, and pull requests are welcome!
-Feel free to fork this repo or open issues.
+---
+
+## 🤝 Contributing
+
+Contributions, suggestions, and pull requests are welcome!  
+Feel free to **fork** this repo or **open an issue** to get started.
